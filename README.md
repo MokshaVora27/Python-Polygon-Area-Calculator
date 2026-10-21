@@ -1,4 +1,4 @@
-# Pyhton-Polygon-Area-Calculator
+# Python-Polygon-Area-Calculator
 
 This project was developed as part of the freeCodeCamp Python curriculum.
 
